@@ -1,3 +1,4 @@
+// Isso é um comentario//
 document.getElementById("texto") .innerHTML="Meu primeiro texto <b>Js<b>!";
 console.log("Oi isso aqui é um console.log");
 let pessoa = "Dimitri"
